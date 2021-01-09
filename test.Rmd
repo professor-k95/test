@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-func (prof)
+func (prof2)
 
 
 ```{r cars}
